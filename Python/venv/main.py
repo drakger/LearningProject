@@ -48,5 +48,4 @@ def main():
         password="";
         used_characters = "abcdefghijklmnopqrstuvwxyz"
 
-print("Testing")
 main()
